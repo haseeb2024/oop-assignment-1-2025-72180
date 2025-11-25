@@ -1,6 +1,6 @@
 using System;
 
-public class RentalCarDriver
+public class RentalCardriver
 {
     public static void Main(string[] args)
     {
